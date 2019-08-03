@@ -2,7 +2,7 @@
 
 ## OAuth
 
-### Author: Brad
+### Author: TEAM BRAD
 
 ### Links and Resources
 * [submission PR](http://xyz.com)
