@@ -16,19 +16,20 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "bcrypt": "^3.0.2",
-    "cors": "^2.8.4",
-    "debug": "^4.1.0",
-    "dotenv": "^6.1.0",
-    "express": "^4.16.3",
-    "jest": "^23.6.0",
-    "jsonwebtoken": "^8.4.0",
-    "mongodb-memory-server": "^5.1.4",
-    "mongoose": "^5.3.13",
-    "mongoose-schema-jsonschema": "^1.1.15",
-    "morgan": "^1.9.0",
+    "bcrypt": "^3.0.6",
+    "cors": "^2.8.5",
+    "debug": "^4.1.1",
+    "dotenv": "^8.0.0",
+    "eslint": "6.1.0",
+    "express": "^4.17.1",
+    "jest": "^24.8.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongodb-memory-server": "^5.1.10",
+    "mongoose": "^5.6.8",
+    "mongoose-schema-jsonschema": "^1.2.1",
+    "morgan": "^1.9.1",
     "require-directory": "^2.1.1",
-    "supertest": "^3.3.0",
-    "swagger-ui-express": "^4.0.2"
+    "supertest": "^4.0.2",
+    "swagger-ui-express": "^4.0.7"
   }
 }
